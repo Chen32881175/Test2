@@ -1,8 +1,4 @@
-{
-    "returncode": 0,
-    "message": "ok",
-    "result": {
-        "fctlist": [
+
             {
                 "name": "法拉利",
                 "serieslist": [
@@ -56,6 +52,4 @@
                     }
                 ]
             }
-        ]
-    }
-}
+       
